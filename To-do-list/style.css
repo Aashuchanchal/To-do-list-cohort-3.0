@@ -1,0 +1,82 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color:black
+}
+main{
+    padding: 20px;
+    height: 60%;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    align-items: center;
+}
+input{
+    padding: 10px;
+    width: 300px;
+    border-radius: 20px;
+    border: 1px solid grey;
+    outline: none;
+    justify-content: center;
+    
+}
+button{
+    padding: 10px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+.to-to-list{
+   display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.li{
+    display: flex;
+    width: 40%;
+    border: 1px solid black;
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: white;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+h3{
+    font-size: 15px;
+    font-weight: 300;
+}
+.btn{
+   padding:2px 30px;
+   border: none;
+   border-radius: 10px;
+
+}
+div.Edit{
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+}
+div.Delete{
+    background-color: #f44336;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    display:flex;
+    flex-direction: column;
+} */
